@@ -1,4 +1,4 @@
-mozmozUploader
+mozUploader
 ==============
 
 ただのアップローダ
