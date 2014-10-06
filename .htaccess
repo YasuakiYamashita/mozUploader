@@ -1,0 +1,3 @@
+<Files ~ "^oil$">
+  deny from all 
+</Files>
